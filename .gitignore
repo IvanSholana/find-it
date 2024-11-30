@@ -1,0 +1,8 @@
+# Ignore the CatBoost info directory (specific to CatBoost)
+catboost_info/
+
+# Ignore all log files
+*.log
+
+# Ignore all PNG image files
+*.png
